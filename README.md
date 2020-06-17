@@ -1,0 +1,1 @@
+The goal of the project is to build a regression model to predict the house price.
